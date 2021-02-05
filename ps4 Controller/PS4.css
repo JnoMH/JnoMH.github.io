@@ -11,12 +11,12 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(face.png);
+    background: url(facemod.png);
 }
 
 .ds4 .stick {
     position: absolute;
-    background: url(sticks.png);
+    background: url(sticksmod.png);
     height: 94px;
     width: 94px;
 }
