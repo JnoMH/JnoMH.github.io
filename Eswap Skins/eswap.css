@@ -1,0 +1,41 @@
+/*BEGIN THRUSTMASTER eSWAP Controller Styling*/
+
+.controller.custom{
+    background: url(eswap.png); 
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+
+}
+.custom .stick.pressed.left{
+    position: absolute;
+    background: url(L3.png);
+    height: 113px;
+    width: 113px;
+    background-repeat:no-repeat;
+}
+.custom .stick.pressed.right{
+    position: absolute;
+    background: url(R3.png);
+    height: 113px;
+    width: 113px;
+    background-repeat:no-repeat;
+}
+.custom .stick.left{
+    position: absolute;
+    background: url(LS.png);
+    left: -158px;
+    top: -160px;
+    height: 113px;
+    width: 113px;
+    background-repeat:no-repeat;
+}
+.custom .stick.right{
+    position: absolute;
+    background: url(RS.png);
+    left: 297px;
+    height: 113px;
+    width: 113px;
+    background-repeat:no-repeat;
+}
